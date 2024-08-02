@@ -1,4 +1,7 @@
-## 1.2.0 (Unreleased)
+## 1.3.0 (Unreleased)
+## 1.2.0 (2024-08-02)
+
+- module/alicloud_alb_listener: deprecate attribute acl_config; support resource alicloud_alb_listener_acl_attachment. [GH-5](https://github.com/terraform-alicloud-modules/terraform-alicloud-alb-https/pull/5)
 
 ## 1.1.0 (2024-03-12)
 
